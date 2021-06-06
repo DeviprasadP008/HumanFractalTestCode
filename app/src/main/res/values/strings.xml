@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Human Fractal</string>
+    <string name="session_morning">Morning</string>
+    <string name="session_afternoon">Afternoon</string>
+    <string name="session_evening">Evening</string>
+    <string name="session_night">Night</string>
+</resources>
